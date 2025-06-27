@@ -4,4 +4,4 @@
 
 #purpose
 
-*it's just something to start with, more likely a practice
+*it's just something to start with, more likely a practice*
